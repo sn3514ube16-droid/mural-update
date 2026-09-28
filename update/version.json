@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.6 ",
+    "version":  "1.0.61",
     "notes":  "",
     "files":  [
                   {
@@ -143,7 +143,7 @@
                   {
                       "path":  "Mural.exe",
                       "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update/main/update/Mural.exe",
-                      "sha256":  "05f5e1279575d8ef36c92cdb268d995c719911c7038bc653e4907746b2f27fcd",
+                      "sha256":  "976f083e19ebfd7179b58cc77f598117cea81f105e3e84715afbf65a42e71f85",
                       "size":  6400512
                   },
                   {

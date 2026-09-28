@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.6",
+    "version":  "1.0.6 ",
     "notes":  "",
     "files":  [
                   {
@@ -135,27 +135,15 @@
                       "size":  48519
                   },
                   {
-                      "path":  "Mural.lib",
-                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update/main/update/Mural.lib",
-                      "sha256":  "8a33dc684025f030a200bfe85a10b5f0b3ee8d826fc585caa8b0e9015319ff09",
-                      "size":  1712
-                  },
-                  {
                       "path":  "MuralLauncher.PAID.exe",
                       "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update/main/update/MuralLauncher.PAID.exe",
                       "sha256":  "ba6811c1a7fd5cac18ddf940949fa0f8b51516a7672476d61e18131353896af8",
                       "size":  235008
                   },
                   {
-                      "path":  "Mural.exp",
-                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update/main/update/Mural.exp",
-                      "sha256":  "fb9da1cc52915ac85faa097bc10c2432ff9ad140763bf8b2d0966fd894f935e2",
-                      "size":  812
-                  },
-                  {
                       "path":  "Mural.exe",
                       "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update/main/update/Mural.exe",
-                      "sha256":  "8939440bfe5988423a46ea2ce99ba56a1dabc27b4c48b2d47d1f796b3523631a",
+                      "sha256":  "05f5e1279575d8ef36c92cdb268d995c719911c7038bc653e4907746b2f27fcd",
                       "size":  6400512
                   },
                   {

@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.1",
-    "notes":  "in-app updater + version enforcement",
+    "version":  "1.0.2 ",
+    "notes":  "",
     "files":  [
                   {
                       "path":  "brotlicommon.dll",
@@ -135,22 +135,22 @@
                       "size":  48519
                   },
                   {
-                      "path":  "Mural.exp",
-                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update/main/update/Mural.exp",
-                      "sha256":  "fb9da1cc52915ac85faa097bc10c2432ff9ad140763bf8b2d0966fd894f935e2",
-                      "size":  812
-                  },
-                  {
                       "path":  "Mural.lib",
                       "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update/main/update/Mural.lib",
                       "sha256":  "8a33dc684025f030a200bfe85a10b5f0b3ee8d826fc585caa8b0e9015319ff09",
                       "size":  1712
                   },
                   {
+                      "path":  "Mural.exp",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update/main/update/Mural.exp",
+                      "sha256":  "fb9da1cc52915ac85faa097bc10c2432ff9ad140763bf8b2d0966fd894f935e2",
+                      "size":  812
+                  },
+                  {
                       "path":  "Mural.exe",
                       "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update/main/update/Mural.exe",
-                      "sha256":  "1a942d6f88690c4ec05b48b0f859e41c65e9fd3fdaa3209171fbe7287f666963",
-                      "size":  6381056
+                      "sha256":  "154de4ad660a3798989e6cfda2f3ef6b37635716123e9be32f577a35def6f6d1",
+                      "size":  6379520
                   },
                   {
                       "path":  "Twisted icons/Astro.png",

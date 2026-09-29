@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.82",
+    "version":  "1.0.83",
     "notes":  "",
     "files":  [
                   {
@@ -137,8 +137,8 @@
                   {
                       "path":  "Mural.exe",
                       "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update/main/update/Mural.exe",
-                      "sha256":  "5abad68ba489bdfb6def8b5288a45c1c631741f157ec12f5d63ece035c8df412",
-                      "size":  6556160
+                      "sha256":  "0430042a9054927600eb6113697518edafbcec446a232c627d62be406a1b6f24",
+                      "size":  6565376
                   },
                   {
                       "path":  "Twisted icons/Astro.png",

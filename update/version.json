@@ -1,5 +1,5 @@
 {
-    "version":  "1.1.6",
+    "version":  "1.1.7",
     "notes":  "",
     "files":  [
                   {
@@ -131,8 +131,8 @@
                   {
                       "path":  "Mural.exe",
                       "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update/main/update/Mural.exe",
-                      "sha256":  "1515cb48c35b6ac4e0dd27a98ede5ba1b9ac1ccc6f438a350f863f8c78fcac44",
-                      "size":  6602240
+                      "sha256":  "84e9866d3126e073b4dd1bdb69484317221c180af659e38da35e8bb1e925ec29",
+                      "size":  6603776
                   },
                   {
                       "path":  "Twisted icons/Astro.png",
@@ -597,12 +597,6 @@
                       "size":  16187
                   },
                   {
-                      "path":  "Item Icons/Pumpkin.png",
-                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update/main/update/Item%20Icons/Pumpkin.png",
-                      "sha256":  "4587031d2cbfb6920255631e69d1b9c0c818e442ce584ab91ed71e1fee945233",
-                      "size":  16135
-                  },
-                  {
                       "path":  "Item Icons/Smoke Bomb.png",
                       "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update/main/update/Item%20Icons/Smoke%20Bomb.png",
                       "sha256":  "aba91535ba183742160e0bb8e0f99977273bd7bda5e9f4b9c2f19cd1dd289bce",
@@ -721,6 +715,12 @@
                       "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update/main/update/Item%20Icons/Stealth%20Candy.png",
                       "sha256":  "39488d1b1e057a99c6f66fe4aa7f71a082c9ac8496fc25e2f04868e50569661b",
                       "size":  8824
+                  },
+                  {
+                      "path":  "Item Icons/Pumpkins.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update/main/update/Item%20Icons/Pumpkins.png",
+                      "sha256":  "4587031d2cbfb6920255631e69d1b9c0c818e442ce584ab91ed71e1fee945233",
+                      "size":  16135
                   }
               ]
 }

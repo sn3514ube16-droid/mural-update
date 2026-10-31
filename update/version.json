@@ -1,6 +1,6 @@
 {
-    "version":  "1.5.4",
-    "notes":  "",
+    "version":  "1.5.3",
+    "notes":  "ESP 복구 및 PRO 제한 제거",
     "files":  [
                   {
                       "path":  "mural_bg.png",
@@ -53,7 +53,7 @@
                   {
                       "path":  "Mural.exe",
                       "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update/main/update/Mural.exe",
-                      "sha256":  "a56ee38dec457d610e5fbdd24dea466dda2af2493790aa533b5490cbc404e6c7",
+                      "sha256":  "21bb64e9b06c4a81d1beee12d3bde23f85d71c118c49310ca6be82ca6f0388bc",
                       "size":  25455104
                   },
                   {
